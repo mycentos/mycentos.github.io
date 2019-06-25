@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[***@***.com](mailto:email@domain.com)
+[123@123.com](mailto:email@domain.com)
