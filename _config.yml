@@ -1,7 +1,7 @@
 #
 # This file contains configuration flags to customize your site
 #
-
+<link rel="favicon.ico" href="/favicon.ico">
 # Name of your site (displayed in the header)
 name: Your Name
 
