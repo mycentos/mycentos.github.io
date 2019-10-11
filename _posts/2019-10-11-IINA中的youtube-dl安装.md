@@ -11,6 +11,7 @@ IINA中的 youtube-dl
 Youtube-dl 更新非常迅速。IINA 会在每次发布时更新自带的 youtube-dl，但多数情况下很难跟上它的进度。在自带的 youtube-dl _由于版本太老_无法加载视频时，你可以使用自定义的 youtube-dl 文件。要安装最新的 youtube-dl, 建议使用 homebrew（请确认安装了 homebrew）:https://brew.sh/
 
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+
 Homebrew安装
 
 brew install youtube-dl
